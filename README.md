@@ -1,5 +1,5 @@
-# -D-tection-de-D-fauts-sur-Isolateurs-lectriques-avec-YOLO
-# Détection de Défauts sur Isolateurs Électriques avec YOLOv7
+# -Detection-de-Defauts-sur les Isolateurs electriques-avec-YOLO 7
+
 
 
 Ce projet utilise YOLOv7 pour la détection automatique de défauts sur des isolateurs électriques, un élément crucial pour garantir la sécurité et l'efficacité des réseaux électriques. En automatisant l'inspection des isolateurs, nous visons à identifier rapidement les détériorations ou défaillances, facilitant ainsi les interventions de maintenance préventive.
