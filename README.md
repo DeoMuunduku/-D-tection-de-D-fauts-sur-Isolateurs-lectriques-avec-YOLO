@@ -3,6 +3,8 @@
 
 
 Ce projet utilise YOLOv7 pour la détection automatique de défauts sur des isolateurs électriques, un élément crucial pour garantir la sécurité et l'efficacité des réseaux électriques. En automatisant l'inspection des isolateurs, nous visons à identifier rapidement les détériorations ou défaillances, facilitant ainsi les interventions de maintenance préventive.
+![ảnh](https://github.com/user-attachments/assets/fc02e661-2bcf-429f-9bd4-c84438d19b5f)
+
 
 ## Installation des Dépendances
 
