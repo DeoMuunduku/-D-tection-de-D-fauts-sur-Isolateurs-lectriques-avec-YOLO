@@ -18,12 +18,10 @@ Le projet nécessite un jeu de données d'images d'isolateurs électriques, comp
 
 La section principale du notebook guide à travers le processus d'entraînement de YOLOv7 sur le jeu de données spécifié. Elle comprend la configuration de l'entraînement, le lancement du processus, et l'interprétation des résultats obtenus.
 
-## Guide Pas à Pas
-
-### 1. Installation des Dépendances
+![ảnh](https://github.com/user-attachments/assets/d671830f-3f36-48d2-af78-4f0b7b9a4e39)
 
 
-### 2. Préparation des Données
+
 
 
 
